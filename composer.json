@@ -1,0 +1,19 @@
+{
+    "name": "petrgrishin/yiipimple",
+    "description": "Integration dependency injection container Pimple in Yii framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr Grishin",
+            "email": "petr.grishin@grishini.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii": "dev-master",
+        "pimple/pimple": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Yiipimple": "lib/" }
+    }
+}
