@@ -2,7 +2,9 @@
 /**
  * (c) http://www.yiiframework.com/forum/index.php/topic/40694-yii-dependency-injection-container-tutorial/
  */
-class WebApplication extends CWebApplication
+namespace YiiPimple;
+
+class WebApplication extends \CWebApplication
 {
     /**
      * @var \Pimple dependency injection container

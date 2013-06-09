@@ -2,6 +2,8 @@
 /**
  * (c) http://www.yiiframework.com/forum/index.php/topic/40694-yii-dependency-injection-container-tutorial/
  */
+namespace YiiPimple;
+
 class CContainer extends \Pimple
 {
     /**
