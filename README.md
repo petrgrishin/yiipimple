@@ -11,13 +11,7 @@ composer.json:
 {
   "require": {
     "petrgrishin/yiipimple": "dev-master"
-  },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "http://github.com/petrgrishin/yiipimple"
-    }
-  ]
+  }
 }
 ```
 
